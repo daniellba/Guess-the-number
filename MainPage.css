@@ -1,0 +1,68 @@
+#Name{
+	padding:8;
+	text-align: center;
+	background-color: #3599E3;
+	font-size:25px;
+}
+
+#Guess{
+	padding:8;
+	text-align: center;
+	background-color: #E48423;
+	font-size:35px;
+}
+
+#buttons{
+	text-align: center;
+	border-color:black;
+}
+
+#textArea{
+	font-size:25px;
+}
+
+#GuessBTN{
+	font-size:25px;
+	cursor: pointer;
+}
+
+#NewGameBTN{
+	font-size:25px;
+	cursor: pointer;
+}
+
+.display{
+	padding:8;
+	font-size:35px;
+	text-align: center;
+}
+
+#D_area{
+	background-color:green;
+	width:50%;
+	height:225px;
+	float:left;
+}
+
+#E_area{
+    max-height: 226px;
+    background-color: #8500ff;
+    padding-left: 21%;
+    overflow: auto;
+    width: 30%;
+    height: 226px;
+    float: right;
+    margin-top: 21px;
+}
+
+.main{
+	display: flex;
+}
+
+#popup{
+	color:red;
+	text-align: center;
+	font-size: large;
+}
+
+
